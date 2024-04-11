@@ -38,7 +38,7 @@ Visit [Starting the Aircraft](02_cockpit-preparation) to learn more.
     * External Power OR APU
 * Make sure the ADIRS are set to NAV.
 * Have a valid flight plan.
-* Ensure IFR clearance has been obtained.
+* Ensure IFR clearance has been obtained through your network of choice (VATsim, Hoppie's, etc.)
 
 !!! info "Requesting IFR Clearance when using an Online ATC Network"
     Before departing for the flight, we must obtain an IFR clearance from ATC. The clearance may be obtained from 
@@ -64,9 +64,10 @@ Visit [Starting the Aircraft](02_cockpit-preparation) to learn more.
 <p style="color:yellow; font-size:18px;">TODO: describe the MFD, FMS and the process for setting it up.</p>
 
 ### Flight-Plan
+<p style="color:yellow; font-size:18px;">TODO: Insert FP doc here, should have minor differences from 32NX due to new MFD</p>
 
 ### Discontinuity
-
+<p style="color:yellow; font-size:18px;">TODO: Insert DISCO procedure here, should have minor differences from 32NX due to new MFD</p>
 <!--
 
 This guide will cover the following topics:
